@@ -1,0 +1,32 @@
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\bin\Debug\KoloRatunkowe.exe.config
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\bin\Debug\KoloRatunkowe.exe
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\bin\Debug\KoloRatunkowe.pdb
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\projekt.csproj.GenerateResource.Cache
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\KoloRatunkowe.exe
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\KoloRatunkowe.pdb
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\projekt.Form1.resources
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\projekt.A.resources
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\projekt.B.resources
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\projekt.C.resources
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\projekt.D.resources
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\projekt.E.resources
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\projekt.F.resources
+C:\Users\Nowy\Desktop\obiektowe\KoloRatunkowe\bin\Debug\KoloRatunkowe.exe.config
+C:\Users\Nowy\Desktop\obiektowe\KoloRatunkowe\obj\Debug\KoloRatunkowe.exe
+C:\Users\Nowy\Desktop\obiektowe\KoloRatunkowe\obj\Debug\KoloRatunkowe.pdb
+C:\Users\Nowy\Desktop\obiektowe\KoloRatunkowe\bin\Debug\KoloRatunkowe.exe
+C:\Users\Nowy\Desktop\obiektowe\KoloRatunkowe\bin\Debug\KoloRatunkowe.pdb
+C:\Users\Nowy\Desktop\obiektowe\KoloRatunkowe\obj\Debug\projekt.csprojResolveAssemblyReference.cache
+C:\Users\Nowy\Desktop\obiektowe\KoloRatunkowe\obj\Debug\projekt.Form1.resources
+C:\Users\Nowy\Desktop\obiektowe\KoloRatunkowe\obj\Debug\projekt.Properties.Resources.resources
+C:\Users\Nowy\Desktop\obiektowe\KoloRatunkowe\obj\Debug\projekt.A.resources
+C:\Users\Nowy\Desktop\obiektowe\KoloRatunkowe\obj\Debug\projekt.B.resources
+C:\Users\Nowy\Desktop\obiektowe\KoloRatunkowe\obj\Debug\projekt.C.resources
+C:\Users\Nowy\Desktop\obiektowe\KoloRatunkowe\obj\Debug\projekt.D.resources
+C:\Users\Nowy\Desktop\obiektowe\KoloRatunkowe\obj\Debug\projekt.E.resources
+C:\Users\Nowy\Desktop\obiektowe\KoloRatunkowe\obj\Debug\projekt.F.resources
+C:\Users\Nowy\Desktop\obiektowe\KoloRatunkowe\obj\Debug\projekt.csproj.GenerateResource.Cache
+C:\Users\Nowy\Desktop\Jurkowska, Indyka\KoloRatunkowe\bin\Debug\KoloRatunkowe.exe.config
+C:\Users\Nowy\Desktop\Jurkowska, Indyka\KoloRatunkowe\obj\Debug\KoloRatunkowe.exe
+C:\Users\Nowy\Desktop\Jurkowska, Indyka\KoloRatunkowe\obj\Debug\KoloRatunkowe.pdb

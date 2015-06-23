@@ -1,0 +1,30 @@
+C:\Users\Asia\Desktop\PO\KoloRatunkowe\KoloRatunkowe\bin\Debug\KoloRatunkowe.exe.config
+C:\Users\Asia\Desktop\PO\KoloRatunkowe\KoloRatunkowe\bin\Debug\KoloRatunkowe.exe
+C:\Users\Asia\Desktop\PO\KoloRatunkowe\KoloRatunkowe\bin\Debug\KoloRatunkowe.pdb
+C:\Users\Asia\Desktop\PO\KoloRatunkowe\KoloRatunkowe\obj\Debug\KoloRatunkowe.Form1.resources
+C:\Users\Asia\Desktop\PO\KoloRatunkowe\KoloRatunkowe\obj\Debug\KoloRatunkowe.Properties.Resources.resources
+C:\Users\Asia\Desktop\PO\KoloRatunkowe\KoloRatunkowe\obj\Debug\KoloRatunkowe.A.resources
+C:\Users\Asia\Desktop\PO\KoloRatunkowe\KoloRatunkowe\obj\Debug\KoloRatunkowe.B.resources
+C:\Users\Asia\Desktop\PO\KoloRatunkowe\KoloRatunkowe\obj\Debug\KoloRatunkowe.C.resources
+C:\Users\Asia\Desktop\PO\KoloRatunkowe\KoloRatunkowe\obj\Debug\KoloRatunkowe.D.resources
+C:\Users\Asia\Desktop\PO\KoloRatunkowe\KoloRatunkowe\obj\Debug\KoloRatunkowe.E.resources
+C:\Users\Asia\Desktop\PO\KoloRatunkowe\KoloRatunkowe\obj\Debug\KoloRatunkowe.F.resources
+C:\Users\Asia\Desktop\PO\KoloRatunkowe\KoloRatunkowe\obj\Debug\KoloRatunkowe.csproj.GenerateResource.Cache
+C:\Users\Asia\Desktop\PO\KoloRatunkowe\KoloRatunkowe\obj\Debug\KoloRatunkowe.exe
+C:\Users\Asia\Desktop\PO\KoloRatunkowe\KoloRatunkowe\obj\Debug\KoloRatunkowe.pdb
+C:\Users\Asia\Desktop\PO\KoloRatunkowe\KoloRatunkowe\obj\Debug\KoloRatunkowe.csprojResolveAssemblyReference.cache
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\bin\Debug\KoloRatunkowe.exe.config
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\KoloRatunkowe.exe
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\KoloRatunkowe.pdb
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\bin\Debug\KoloRatunkowe.exe
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\bin\Debug\KoloRatunkowe.pdb
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\KoloRatunkowe.Form1.resources
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\KoloRatunkowe.Properties.Resources.resources
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\KoloRatunkowe.A.resources
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\KoloRatunkowe.B.resources
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\KoloRatunkowe.C.resources
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\KoloRatunkowe.D.resources
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\KoloRatunkowe.E.resources
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\KoloRatunkowe.F.resources
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\KoloRatunkowe.csproj.GenerateResource.Cache
+C:\Users\Nowy\Desktop\Koło ratunkowe przed zjebaniem\KoloRatunkowe\obj\Debug\KoloRatunkowe.csprojResolveAssemblyReference.cache
